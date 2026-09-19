@@ -12,7 +12,7 @@ A Python script to convert modern Minecraft skins (64x64) into the Allumeria ski
 
 ## Requirements
 - Python 3.x
-- [Pillow](https://pillow.readthedocs.io/) (`pip install Pillow`)
+- [Pillow](https://pillow.readthedocs.io/)
 
 ## Usage
 
