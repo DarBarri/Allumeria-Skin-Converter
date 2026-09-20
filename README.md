@@ -6,7 +6,7 @@ A Python script to convert modern Minecraft skins (64x64) into the Allumeria ski
 
 ## Features
 - Converts standard 64x64 Minecraft skins to Allumeria format.
-- Upscales output to 256x256 (4x scale) by default to maintain crisp pixel art.
+- Upscales output to 256x256 by default to maintain crisp pixel art.
 - Supports Slim 3px-wide skins arm models via the `--slim` flag.
 - Uses nearest-neighbor resampling to prevent blurry textures.
 
