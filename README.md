@@ -24,8 +24,8 @@ python Allumeria-skin-converter.py input.png [output.png] [--scale 4] [--slim]
 
     input: Input Minecraft skin PNG (must be 64x64).
     output: (Optional) Output Allumeria skin PNG. Defaults to <input_name>_allumeria.png.
-    --scale: Output scale factor (default: 4, which makes the output 256x256).
-    --slim: Use the Slim (Alex) arm UV layout (3px wide arms) instead of the default Steve layout.
+    --scale: Output scale factor (default: 4).
+    --slim: Use the Slim arm UV layout (3px wide arms).
 
 Example: 
     python Allumeria-skin-converter.py alex.png --slim
